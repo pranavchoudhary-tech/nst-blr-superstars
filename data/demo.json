@@ -1,0 +1,7 @@
+{
+  "username": "demo",
+  "name": "Demo User",
+  "email": "demo@example.com",
+  "bio": "This is a demo user profile",
+  "location": "Bangalore, India"
+}
