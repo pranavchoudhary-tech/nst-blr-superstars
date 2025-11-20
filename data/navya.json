@@ -1,0 +1,17 @@
+{
+  "username": "2102508726-hash",
+  "name": "navya",
+  "email": "n2668028@gmail.com",
+  "bio": "coder",
+  "location": "Bangalore, India",
+  "favoriteColor": "Teal",
+  "favoriteGame": "chess,carrom",
+  "hobbies": "yoga, dancing, listening to spotify, binge-watching",
+  "superpower": "Naming variables perfectly on the first try",
+  "favoriteSnack": "pav-bhaji",
+  "funFact": "I have collected dead mosquitoes n sticked it in a book",
+  "customization": {
+    "backgroundColor": "teal",
+    "backgroundImage": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?w=1200",
+    "profileImage": "https://api.dicebear.com/7.x/avataaars/svg?seed=Alice"
+  }
